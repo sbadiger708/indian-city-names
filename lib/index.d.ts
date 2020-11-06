@@ -1,2 +1,5 @@
-export declare function add(a: number, b: number): number;
+export declare function getCityNames(): {
+    city: string;
+    state: string;
+}[];
 //# sourceMappingURL=index.d.ts.map
