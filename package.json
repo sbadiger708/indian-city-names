@@ -1,0 +1,24 @@
+{
+  "name": "indian-city-names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbadiger708/indian-city-names.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbadiger708/indian-city-names/issues"
+  },
+  "homepage": "https://github.com/sbadiger708/indian-city-names#readme",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
